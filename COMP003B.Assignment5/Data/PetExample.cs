@@ -10,7 +10,7 @@ namespace COMP003B.Assignment5.Data
 			{
 				Id = 4,
 				Name = "Sumo",
-				Type = "Dog",
+				Type = "Great Pyrenees",
 				Age = 4
 			},
 
@@ -18,7 +18,7 @@ namespace COMP003B.Assignment5.Data
 			{
 				Id = 3,
 				Name = "Maya",
-				Type = "Cat",
+				Type = "Pitbull",
 				Age = 6
 			},
 
@@ -26,7 +26,7 @@ namespace COMP003B.Assignment5.Data
 			{
 				Id = 2,
 				Name = "Charlie",
-				Type = "Hampster",
+				Type = "Chihuahua",
 				Age = 1
 			}
 		};
